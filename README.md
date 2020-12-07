@@ -1,4 +1,4 @@
-# Extra info on rockit demo
+# Rockit: optimal motion planning made easy / extra info
 
  * [Play with the GUI](https://mybinder.org/v2/gh/meco-group/rockit_demo/main?urlpath=rockit_demo%2Findex.html) in your browser (_takes a minute to start up the server_)
  * [Homepage of rockit](https://gitlab.kuleuven.be/meco-software/rockit)
