@@ -5,6 +5,7 @@
  * [Homepage of rockit](https://gitlab.kuleuven.be/meco-software/rockit) (code, examples and install instructions)
  * Recorded [technical overview](https://youtu.be/dS4U_k6B904) of rockit (20 min)
 
+
 Rockit is produced by the [MECO team](https://www.mech.kuleuven.be/en/pma/research/meco).
 
 
