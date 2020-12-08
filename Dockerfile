@@ -1,3 +1,1 @@
-FROM jgillis/meco_demos:rockit
-
-RUN echo "test"
+FROM jgillis/meco_demos:rockit_v2
