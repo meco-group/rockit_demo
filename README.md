@@ -9,4 +9,3 @@
 Rockit is produced by the [MECO team](https://www.mech.kuleuven.be/en/pma/research/meco).
 
 
-
