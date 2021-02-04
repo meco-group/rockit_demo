@@ -6,6 +6,6 @@
  * Recorded [technical overview](https://youtu.be/dS4U_k6B904) of rockit (20 min)
 
 
-Rockit is produced by the [MECO team](https://www.mech.kuleuven.be/en/pma/research/meco), core lab of Flanders Make
+Rockit is produced by the [MECO team](https://www.mech.kuleuven.be/en/pma/research/meco), DMMS core lab of Flanders Make
 
 
